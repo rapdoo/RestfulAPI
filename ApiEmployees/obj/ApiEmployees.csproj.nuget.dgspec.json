@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SimpleRestfulAPI\\ApiEmployees\\ApiEmployees\\ApiEmployees.csproj": {}
+    "C:\\repo\\RestfulAPI\\ApiEmployees\\ApiEmployees.csproj": {}
   },
   "projects": {
-    "D:\\SimpleRestfulAPI\\ApiEmployees\\ApiEmployees\\ApiEmployees.csproj": {
+    "C:\\repo\\RestfulAPI\\ApiEmployees\\ApiEmployees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SimpleRestfulAPI\\ApiEmployees\\ApiEmployees\\ApiEmployees.csproj",
+        "projectUniqueName": "C:\\repo\\RestfulAPI\\ApiEmployees\\ApiEmployees.csproj",
         "projectName": "ApiEmployees",
-        "projectPath": "D:\\SimpleRestfulAPI\\ApiEmployees\\ApiEmployees\\ApiEmployees.csproj",
-        "packagesPath": "C:\\Users\\rapdo\\.nuget\\packages\\",
-        "outputPath": "D:\\SimpleRestfulAPI\\ApiEmployees\\ApiEmployees\\obj\\",
+        "projectPath": "C:\\repo\\RestfulAPI\\ApiEmployees\\ApiEmployees.csproj",
+        "packagesPath": "C:\\Users\\gaamtech\\.nuget\\packages\\",
+        "outputPath": "C:\\repo\\RestfulAPI\\ApiEmployees\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\rapdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gaamtech\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -41,6 +41,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
