@@ -8,3 +8,10 @@ C:\repo\RestfulAPI\ApiEmployees\obj\Debug\netcoreapp3.1\staticwebassets\ApiEmplo
 C:\repo\RestfulAPI\ApiEmployees\obj\Debug\netcoreapp3.1\ApiEmployees.AssemblyInfoInputs.cache
 C:\repo\RestfulAPI\ApiEmployees\obj\Debug\netcoreapp3.1\ApiEmployees.AssemblyInfo.cs
 C:\repo\RestfulAPI\ApiEmployees\obj\Debug\netcoreapp3.1\ApiEmployees.RazorTargetAssemblyInfo.cache
+C:\repo\RestfulAPI\ApiEmployees\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\repo\RestfulAPI\ApiEmployees\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\repo\RestfulAPI\ApiEmployees\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\repo\RestfulAPI\ApiEmployees\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\repo\RestfulAPI\ApiEmployees\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\repo\RestfulAPI\ApiEmployees\bin\Debug\netcoreapp3.1\MySql.Data.xml
+C:\repo\RestfulAPI\ApiEmployees\obj\Debug\netcoreapp3.1\ApiEmployees.csproj.CopyComplete

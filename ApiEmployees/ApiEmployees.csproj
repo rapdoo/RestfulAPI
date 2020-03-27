@@ -4,5 +4,15 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\Users\gaamtech\Downloads\mysql-connector-net-8.0.19-noinstall\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 
 </Project>
